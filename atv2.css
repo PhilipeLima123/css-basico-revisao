@@ -1,0 +1,58 @@
+.nome, span{
+    font-family: fantasy;
+    color: royalblue;
+}
+#t1{
+    background-color: black;
+    color: white;
+}
+
+#t2{
+    background-color: rgb(230, 23, 23);
+}
+#t3{
+    background-color: rgb(74, 41, 128);
+}
+#t4{
+    background-color: rgb(180, 19, 140);
+}
+
+#t5{
+    background-color: rgb(53, 165, 209);
+}
+
+#t6{
+    background-color: rgb(195, 207, 28);
+}
+
+#t7{
+    background-color: rgb(206, 118, 17);
+}
+
+#t8{
+    background-color: rgb(133, 78, 96);
+}
+
+#t9{
+    background-color: rgba(8, 90, 28, 0);
+}
+
+
+
+h1{
+    text-align: right;
+}
+
+div{
+    text-align: center;
+    vertical-align: middle;
+    position:relative;
+    left: 40%;
+    top:40%;
+    width:400px;
+    height:270px;
+}
+
+#t4, #t6, #t8{
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+#div1{
+    border: 10px solid;
+    height: 100px;
+ border-color:green;
+ background-color: red;
+}
+
+#div2{
+    border: 1px solid;
+    height: 100px;
+}
+#div3{
+    height: 100px;
+ background-color: rgb(117, 51, 117);
+}
+
+#div4{
+    border: 10px solid;
+    height: 100px;
+ border-color:rgb(199, 134, 12);
+ background-color: orange;
